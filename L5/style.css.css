@@ -1,0 +1,17 @@
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #FFEFD5;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 3px solid #8B4513;
+            padding: 8px;
+            text-align: left;
+        }
+        img {
+            border-radius: 50%;
+        }
