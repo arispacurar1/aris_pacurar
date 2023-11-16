@@ -1,0 +1,40 @@
+<style>
+            h1, h2, h3 
+            {
+                font-family: "Arial", sans-serif; 
+                font-size: 24px;
+                color:white;
+            }
+            p 
+            {
+                font-family: "Italic", italic; 
+                font-size: 16px;
+                color:black;
+            }
+            img{
+                border-radius: 50%
+            }
+            table, th, td 
+            {
+                border: 3px solid #8B4513;
+		padding: 8px;
+                text-align: left;
+            } 
+            body 
+            {
+                background-color: #FFEFD5;
+                
+            }
+            ul
+            {
+                list-style-type: none;
+                margin-top:0;
+                color:black;
+                padding-left: 0;
+                border: 1px solid #000;
+            }
+            li:not(:last-child)
+            {
+                border-bottom: 1px solid #000;
+            }
+      </style>
